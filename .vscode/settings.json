@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap":{
+        "c": "cd $dir ; gcc $fileName -o $fileNameWithoutExt -lGL -lglut ; $dir$fileNameWithoutExt",
+    },
+    "files.associations": {
+        "vardefs.h": "c",
+        "main.h": "c",
+        "stdlib.h": "c"
+    }
+}
